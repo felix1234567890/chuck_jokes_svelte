@@ -6,7 +6,7 @@
   import Checkbox from "@smui/checkbox";
   import Chip, { Text } from "@smui/chips";
   import FormField from "@smui/form-field";
-  import Card from "./components/Card.svelte";
+  import Card from "../lib/Card.svelte";
   let promise;
   let jokesArr;
   let jokesToShow;
